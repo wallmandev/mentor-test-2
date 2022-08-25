@@ -1,0 +1,132 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    width: 100%;
+    position: absolute;
+}
+
+.img {
+    position: absolute;
+    z-index: 1;
+    margin-top: 8.5vw;
+    margin-left: 37.45vw;
+    max-width: 19%;
+    border-radius: 8px;
+}
+
+.square {
+    position: absolute;
+    margin-left: 36vw;
+    margin-top: 7vw;
+    box-shadow: 10px 0 10px;
+    background-color: hsl(216, 50%, 16%);
+    width: 22vw;
+    height: 38vw;
+    border-radius: 12px;
+}
+
+.Equilibrium {
+  color: white;
+  position: absolute;
+  z-index: 1;
+  font-family: Outfit;
+  font-size: 1.5vw;
+  font-weight: 600;
+  margin-top: 22vw;
+  margin-left: 1.6vw;
+}
+
+.p2 {
+    color: white;
+    position: absolute;
+    font-family: Outfit;
+    font-weight: lighter;
+    font-size: 1.1vw;
+    margin-top: 26vw;
+    margin-left: 1.5vw;
+}
+
+.ETH {
+    position: absolute;
+    font-size: 1vw;
+    font-family: Outfit;
+    font-weight: 600;
+    color: white;
+    margin-top: 30.2vw;
+    margin-left: 3vw;
+}
+
+.ethicon {
+    position: absolute;
+    max-width: 100%;
+    margin-top: 30.2vw;
+    margin-left: 1.45vw;
+}
+
+.days {
+    position: absolute;
+    font-size: 1vw;
+    margin-top: 30.2vw;
+    margin-left: 15.3vw;
+    font-family: Outfit;
+    color: hsl(215, 51%, 70%);
+}
+
+.clock {
+    position: absolute;
+    width: 100%;
+    margin-top: 30.3vw;
+    margin-left: 13.5vw;
+}
+
+.whiteLine {
+    position: absolute;
+    background-color: hsl(215, 32%, 27%);
+    width: 19vw;
+    height: 1px;
+    border-bottom: 10px;
+    margin-top: 33vw;
+    margin-left: 1vw;
+}
+
+.createdBy {
+    position: absolute;
+    font-family: Outfit;
+    font-weight:lighter;
+    font-size:1vw;
+    color: hsl(215, 51%, 70%);
+    margin-top: 34.8vw;
+    margin-left: 4vw;
+}
+
+.jules {
+    position: absolute;
+    color: white;
+    font-size: 1vw;
+    font-family: Outfit;
+    font-weight: 300;
+    margin-top: 34.8vw;
+    margin-left: 9.4vw;
+}
+
+.picture {
+    position: absolute;
+    width: 1.8vw;
+    margin-top: 34.5vw;
+    margin-left: 1vw;
+}
+
+.whiteCircle {
+    position: absolute;
+    margin-top: 34.5vw;
+    margin-left: 1vw;
+    border-radius: 50%;
+    border:1px solid white;
+    height: 1.75vw;
+    width: 1.75vw;
+    -moz-border-image: 50%;
+}
+
+.attribution{
+    font-size: 1vw;
+    
+}
